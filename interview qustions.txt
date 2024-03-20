@@ -1,0 +1,137 @@
+1) Can you tell me about yourself and your background in software engineering?
+
+first thank you for inviting me for interviewed for this internship position with your organization.being a sencond year compurer scince at beurt arab university iam driven by my passion for technology and its transformative potential with a solid foundation in programing language such as java ,c++,i possess a strong anlytical and problem solving skills ,and i would to describe my self as a hard working,loyal,dynamic,self learning and a positive person who want to develop the right skills and qualities to have a long and succeful carrer,i underatand i will only achive my carrer goals if i continue working hard,learn as much possible and take a full advantage form this internship.
+
+
+2)why you want to intern here?
+
+I researched your organization before applying.
+Your track record of succes,impressive history,high quality products,softwares and services, and how you support your staff made it the only place i want to have an internship. In the fact .taking my internship here will give me a greate foundation for a future carerr which means i will be even more determined to make the most of this opportunity
+
+3)strength ?
+
+My strengths include my selfless attitude. I enjoy helping other people.
+For example, at university, I set up a study group for my friends  where we all get together for an hour each week to discuss and share methods for learning and studying. 
+Other strengths include self-discipline, my passion for learning and development, and my ability to set and achieve long-term goals
+
+4)weekness?
+
+My weakness is I am not yet confident in public speaking
+I tried giving a presentation to my class at university, and despite preparing
+for it, I was nervous during the talk. However, this is a skill I want to develop,
+and I plan to take advantage of any opportunities to give talks or presentations to large groups of people.
+
+5)plan after finish internship?
+
+After this internship, I plan to graduate and become a software engineer. I want to work on exciting projects and develop cutting-edge software solutions. My goal is to contribute to the success of a reputable company like cme and collaborate with talented teams. I will continue learning and staying up-to-date with the latest technologies in the field.
+
+
+
+6)how do you see your self 10 years from know?
+
+In 10 years, I picture myself as a senior software engineer, leading projects and teams at the company. I want to use my skills and knowledge to come up with new and creative solutions that help the company succeed. As time goes on, I hope to become a manager and guide a team of people, motivating and helping them to achieve their goals. I'll make sure to stay updated with the latest technology so I can stay on top of things. My main goal is to make a big impact on the company's growth and be seen as a respected expert in the field. I'm also excited to share what I know through mentoring and speaking at industry events, where I can help shape the future of the industry.
+ 
+
+7) 3 word describe your self
+
+Ambitious
+Hard worker
+Loyal
+Self confidence
+
+
+
+8)tell me about challenging software make 
+
+During my university web_programing course, I worked with a friend to create an e-commerce website from scratch. We discussed what the website needed to do and how it should look. We divided the work: my friend handled the server parts using php , and I focused frond end and  on storing and retrieving data using sql,html,css,javascript . We communicated regularly to make sure everything fit together smoothly. After we finished building, we tested the website thoroughly to ensure it worked well on different devices. Finally, we put the website online for people to try. Working with my friend was great because we combined our skills, solved problems together, and learned a lot about building a real e-commerce website.
+
+9) tell me about the best course you have take it in your university
+
+
+The best course and the difficult course in all courses I took in university was the data structure course. It focused on organizing and managing data effectively. We learned about different data structures like arrays, linked lists, and trees. The course taught me how to store, retrieve, and manipulate data efficiently. We also learned algorithms for searching and sorting data. The course had practical assignments that helped us apply what we learned. Overall, the data structure course enhanced my problem-solving skills and provided a strong foundation for software development. And because of this course i passed the technical assemnet for  this intern 
+
+10) tell me what you like in your university?
+
+At my university, I really enjoyed the teamwork aspect of the projects and assignments. The doctors were supportive and helpful, creating a positive learning environment. The university provided various resources and opportunities for personal growth. I liked that we got to apply what we learned through practical hands-on activities. The sense of community among students was strong, making it a friendly and welcoming place. The university also preparing students for their future careers. 
+
+
+11)What motivated you to pursue a carrer in software engineering? 
+
+I chose a career in software engineering because I have a strong passion for technology and its potential to make a positive impact on the world. I enjoy the challenge of solving complex problems and finding efficient and elegant solutions through coding. The ever-changing nature of the field keeps me excited and constantly learning.  Overall, software engineering allows me to combine my creativity, logical thinking, and technical skills to create meaningful and impactful software solutions.
+
+12)How do you  approach debugging and trobleshooting software issue?
+
+When it comes to fixing software problems, I have a systamatic approach:
+
+1. Understand and reproduce the issue.
+2. Collect all the available information about the problem.
+3. Look at the code and search for mistakes or bugs.
+4. Use tools to help with debugging, like breakpoints.
+5. Test different scenarios to narrow down the problem.
+6. Make guesses about what might be causing the issue.
+7. Test those guesses to see if they're right.
+8. And Once the cause is found, develop a solution.
+9. Test the solution to make sure it works.
+10. Document the problem and solution for future reference.
+
+By following these steps, I can effectively find and fix software issues.
+
+13)
+
+What programing language are you proffint in it? Can you provide a progect you workd using this lanuage?
+
+"I am proficient in Java and C++. I have experience working with both languages on various projects. One project I worked on using this laguage was a Tic-Tac-Toe android application which mean x o game . The application allowed two players to take turns marking spaces on a 3x3 grid, and it would determine the winner or declare a draw based on the game's rules and to send the name of the winner in watssap or email. I utilized object-oriented programming principles to design the game logic and graphical user interface. The application provided an interactive and enjoyable experience for users to play. this application teach me the priniciple of android development and how to combine many layout together and how to use the intent in android development
+
+
+14)Have you ever completed any relevent coursework,projects internship in software engnner ?
+
+
+"I didn't do an internship yet, but I took a course in Android development and worked on a small projects to learn. The course covered important topics like app development, user interface design, and working with databases and APIs. I built an Android apps from scratch , solving a specific problems. Even though it was a small projects, but those projects gave me hands-on experience and taught me a lot about software development.
+
+15)Can you walk me through your problem solving process when faced with a challenging coding problem?
+
+When faced with a challenging coding problem, my problem-solving process involves understanding the problem, breaking it down into smaller subproblems, designing an algorithmic approach, implementing the solution, testing and debugging, optimizing and refining the code, and documenting the solution. I approach the problem systematically, focusing on comprehension, logical design, clean implementation, rigorous testing, and continuous improvement. I also collaborate with others when needed and utilize available resources to enhance my problem-solving abilities.
+
+
+
+16)Can you discuss a time when your workes on a team project?what was your role and how did you you contribute to the teams sucees? 
+
+During my university project on image processing couese, I focused on the frontend part. My role was to create the visual design and user interface of the application. I worked closely with my team, providing guidance and support. I coordinated frontend tasks, set deadlines, and ensured progress according to our timeline. I conducted thorough testing of the user interface to ensure it worked correctly and was user-friendly. Additionally, I stayed updated on new frontend development practices and shared my knowledge with the team. My contributions helped deliver a successful project with a well-designed and functional frontend for our image processing project
+
+
+17)How do you stay updated on the latest trends and technologies in software engneering ?
+
+To stay updated with the latest technology, I use different ways. I take online courses, read books, and follow tech news blogs. I join online communities and attend conferences and meetups to connect with other professionals. Social media platforms as linkdin and podcasts help me stay informed about industry trends. And also participating in coding challenges . By combining these strategies, I stay competitive and adapt to new technologies effectively.
+
+
+18)What did you hope to gain from this internship and how do you envision it contributing to your career goals?
+
+I am looking for this internship to learn and gain experience in a real job. I want to understand how things work in this field and meet people who can help me in the future. Doing this internship will make my resume stronger and give me a better chance of getting a job. It will also help me figure out what I like and what I am good at to figure out what I want to do in my career. So, this internship is like stepping stones that can help me succeed in my future career.
+
+
+19)Can you describe the typical life cycle of software engeneer project from start to finish?
+
+The life cycle of a software engineering project typically involves several phases. It starts with gathering and analyzing requirements, followed by designing the software and creating a plan. Then, developers implement the software according to the design specifications. Testing is conducted to ensure the software works correctly and meets the requirements. Once tested and approved, the software is deployed to the production environment. After deployment, the software enters the maintenance phase, where it is monitored, updated, and supported to ensure its reliability and performance. The specific steps and duration of each phase can vary depending on the project and development methodology used
+
+20)can you provide an example of a project where you had to work under tight deadlines?
+
+During my university web programming course, I had the opportunity to work on a project with my friends where we had to create an e-commerce website within a tight deadline. Despite the time constraints, our team effectively managed our workload by prioritizing tasks and breaking them down into smaller, manageable steps. We utilized existing frameworks and libraries to expedite development and ensure we were focusing on the most critical features first. Despite the challenges, we successfully delivered a functional website, demonstrating our ability to work under pressure and collaborate effectively as a team. This experience taught me valuable lessons in time management, problem-solving, and teamwork, which I believe are essential skills for any role.
+
+21)how did you manage your time effectively?
+
+In general, I manage my time effectively by prioritizing tasks based on their importance and deadlines. I often use to-do lists or task management tools to keep track of my responsibilities and ensure nothing slips through the cracks. Breaking larger projects into smaller, more manageable chunks helps me stay focused and make steady progress. I also try to minimize distractions and allocate specific time blocks for different activities, allowing me to concentrate fully on each task. Additionally, I regularly reassess my priorities and adjust my schedule accordingly to accommodate any unexpected changes or urgent tasks that arise. Overall, effective time management is about staying organized, staying focused, and being flexible when necessary.
+
+22)tell why i want to accept you?
+
+I believe I would be a strong candidate for this internship because of my passion for technology and my commitment to learning and growing in this area. Throughout my academic coursework and any relevant experiences, I've developed skills in programing language,object orianted progrming,data base,android development. I'm particularly excited about the prospect of gaining hands-on experience in software engeneer, as I believe it will complement and enhance my academic knowledge. I'm eager to contribute to the team and learn from the talented professionals here at cme. I'm confident that my dedication, curiosity, and willingness to learn will make me a valuable addition to the internship program and allow me to make meaningful contributions to the projects and initiatives of the company."
+
+23)can your provide an example of a time when you faced a challange or conflict while working in a team?how did you handele it?
+
+During a data structure project focusing on event management, our team faced a challenge regarding the choice of data structure. Some members advocated for a linked list, while others favored a hash table. To address this, I suggested evaluating both options based on project requirements. We conducted research, discussed findings openly, and agreed that a hash table was more suitable for our needs. After deciding, I ensured everyone understood its implementation. By fostering open communication and collaboration, we overcame the conflict and successfully implemented the chosen data structure, teaching me valuable lessons in teamwork and problem-solving.
+
+24)can i ask you qustion?
+
+1-What are the company's short-term and long-term goals, and how does this position contribute to achieving them?
+
+2-if i succeed,what would be the first thing you would want me to concentrate on during this internship?
+3-and please can you tell me more about the team i would be a part of during this internship?
